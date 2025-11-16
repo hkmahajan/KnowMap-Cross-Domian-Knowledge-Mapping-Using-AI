@@ -1,0 +1,13 @@
+spacy
+networkx
+pyvis
+streamlit
+sentence-transformers
+scikit-learn
+numpy
+pandas
+plotly
+matplotlib
+python-dotenv
+neo4j
+networkx==2.8.8

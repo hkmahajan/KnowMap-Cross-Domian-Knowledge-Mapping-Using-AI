@@ -1,0 +1,30 @@
+# Python
+_pycache_/
+*.pyc
+env/
+venv/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Data & outputs
+data/
+outputs/
+*.sqlite
+*.db
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets (never commit)
+.env
+secrets.yml
